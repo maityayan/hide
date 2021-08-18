@@ -1,0 +1,7 @@
+ <input type="checkbox" token="hide_panel_token">
+        <change>
+          <unset token="token_drilldown_panel"></unset>
+            <unset token="form.hide_panel_token"></unset>
+          </change>
+        <choice value="hide">Hide Details</choice>
+        </input>
